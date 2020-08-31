@@ -1,0 +1,51 @@
+h1 {
+    text-align: center;
+}
+
+/* Add a black background color to the top navigation */
+.navbar {
+    background-color: white;
+    overflow: hidden;
+    text-align: center;
+    color: blue;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none; 
+    font-size: 20px;
+  }
+
+  .Home, .About, .Portfolio {
+      padding: 10px;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .nav {
+    float: left; 
+    color: blue;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none; 
+    font-size: 25px;
+    
+  }
+  
+  /* Change the color of links on hover */
+  .nav a:hover {
+    background-color: pink;
+    color: black;
+  }
+
+  .footer{
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      color: black;
+      text-align: center;
+  }
+  
+  /* Add a color to the active/current link */
+  /* .topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+  } */
