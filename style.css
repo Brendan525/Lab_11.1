@@ -68,7 +68,7 @@ ul {
 }
 
 li{
-  padding-top: 20px;
+  padding-top: 40px;
   padding-bottom: 20px;
   font-size: 20px;
   text-align: center;
@@ -81,6 +81,7 @@ li{
 .alert{
   color: red;
   font-size: 25px;
+  padding-top: 20px;
 }
 
 
