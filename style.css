@@ -1,5 +1,6 @@
 body{
   background-color: skyblue;
+  /* text-align: left; */
 }
 
 h1 {
@@ -16,7 +17,6 @@ h2 {
 
 
 .navbar {
-  /* background-color: white; */
   overflow: hidden;
   text-align: center;
   color: blue;
@@ -68,7 +68,7 @@ ul {
 }
 
 li{
-  padding-top: 40px;
+  padding-top: 30px;
   padding-bottom: 20px;
   font-size: 20px;
   text-align: center;
@@ -82,6 +82,24 @@ li{
   color: red;
   font-size: 25px;
   padding-top: 20px;
+}
+
+.venusaur{
+  position: fixed;
+  top: 0;
+  left: 0; 
+}
+
+.charizard{
+  position: fixed;
+  top: 0;
+  left: 0; 
+}
+
+.blastoise{
+  position: fixed;
+  top: 0;
+  left: 0; 
 }
 
 
